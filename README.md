@@ -12,7 +12,7 @@ I am a passionate **Data Science & Machine Learning Enthusiast** eager to explor
 
 ### 📫 Connect With Me:
 - 📧 Email: [dayabansgr@example.com](mailto:dayabansgr@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/dayabansgr](https://www.linkedin.com/in/dayabansgr/))
+- 💼 LinkedIn: [linkedin.com/in/dayabansgr](https://www.linkedin.com/in/dayabansgr/)
 - 🐦 Twitter: [twitter.com/e_dayaban](https://twitter.com/e_dayaban)
 - 👨‍💻 GitHub: [github.com/Daya-1-sgr](https://github.com/Daya-1-sgr)
 
